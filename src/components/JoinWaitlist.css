@@ -1,0 +1,602 @@
+.join-waitlist-box_421222913421222919421224257421224266x {
+  align-items: center;
+  flex-direction: column;
+  width: 100%; /* Set the width to 100% */
+  height: 100vh; /* Set the height to 100% viewport height (full screen) */
+  box-sizing: border-box;
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  font-family: Poppins;
+}
+
+.join-waitlist-frame-1000005227x {
+  width: 100%; /* Set the width to 100% */
+  height: 100vh;
+  box-sizing: border-box;
+  padding-bottom: 114px;
+  padding-left: 641px;
+  position: relative;
+  background-color: rgba(11, 8, 28, 1);
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  color: rgba(255, 255, 255, 1);
+  text-align: center;
+}
+
+.join-waitlist-rectangle-34625621x {
+  border-radius: 15px;
+  bottom: 95px;
+  background: url(https://uortjlczjmucmpaqqhqm.supabase.co/storage/v1/object/public/firejet-converted-images/images/05c2a85753fb287af11eb19b3f2aa3d05ad8c960.webp)
+    center / cover rgba(217, 217, 217, 1);
+  background-color: rgba(217, 217, 217, 1);
+  position: absolute;
+  left: 30px;
+  box-sizing: border-box;
+  height: 624px;
+  width: 678px;
+}
+
+.join-waitlist-frame-1000005229x {
+  top: 0;
+  left: 0;
+  align-items: center;
+  display: flex;
+  gap: 1047px;
+  position: absolute;
+}
+
+.join-waitlist-logo-1 {
+  height: 142px;
+  width: 219px;
+}
+
+.join-waitlist-frame-1000005230x {
+  bottom: 86px;
+  right: 9px;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  gap: 25px;
+  position: absolute;
+}
+
+.join-waitlist-frame-1000005228x {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  height: 575px;
+  width: 671px;
+}
+
+.join-waitlist-transforming-the-way {
+  font-weight: 500;
+  font-size: 64px;
+  width: 671px;
+  height: 287.5px;
+}
+
+.join-waitlist-at-the-hot-platform {
+  letter-spacing: 0.04em;
+  font-weight: 400;
+  font-size: 24px;
+  width: 553px;
+  height: 287.5px;
+}
+
+.join-waitlist-component-20x-0-type {
+  width: 165;
+  height: 47;
+}
+
+.join-waitlist-component-20x-1-type {
+  width: 393;
+  height: 88;
+  position: absolute;
+  left: 516;
+  top: 1428;
+}
+
+.join-waitlist-frame-1000005228x-1 {
+  width: 100%; /* Set width to 100% to fit the full screen width */
+  box-sizing: border-box;
+  padding-top: 106px;
+  padding-bottom: 104px;
+  padding-left: 34px;
+  padding-right: 31px;
+  background-color: rgba(251, 251, 251, 1);
+  display: flex;
+  
+  align-items: flex-end;
+  position: relative;
+  color: rgba(0, 0, 0, 1);
+  text-align: left;
+}
+
+.join-waitlist-frame-1000005231x {
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+  gap: 40px;
+}
+
+.join-waitlist-showcase-your-talent {
+  position: relative;
+  line-height: 1;
+  width: 1375px;
+}
+
+.join-waitlist-showcase-your-talent-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.join-waitlist-component-text-1x {
+  display: inline;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.join-waitlist-portfolio-feature-text-2x {
+  display: inline;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.join-waitlist-component-text-3x {
+  display: inline;
+  font-weight: 400;
+  font-size: 24px;
+}
+
+.join-waitlist-with-our-innovative-text-4x {
+  display: inline;
+  font-weight: 400;
+  line-height: 1.85;
+  font-size: 22px;
+  
+
+}
+
+.join-waitlist-join-the-revolution {
+  position: relative;
+  line-height: 1.85;
+  width: 1375px;
+}
+
+.join-waitlist-join-the-revolution-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+  
+}
+
+.join-waitlist-component-text-1x-1 {
+  display: inline;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.join-waitlist-we-re-transforming-ttext-2x {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-unlock-your-full-pot {
+  position: relative;
+  line-height: 1.85;
+  width: 1375px;
+}
+
+.join-waitlist-unlock-your-full-pot-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.join-waitlist-component-text-1x-2 {
+  display: inline;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.join-waitlist-smart-designer-text-2x {
+  display: inline;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.join-waitlist-smart-designer-text-2x-1 {
+  display: inline;
+  font-weight: 500;
+  font-size: 24px;
+}
+
+.join-waitlist-effortlessly-create-text-3x {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-job-connector-stream {
+  position: relative;
+  line-height: 1;
+  width: 1375px;
+}
+
+.join-waitlist-job-connector-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.join-waitlist-streamline-your-job-text-1x {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-streamline-your-job-text-1x-1 {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-search-explorer-unco {
+  position: relative;
+  line-height: 1;
+  width: 1375px;
+}
+
+.join-waitlist-search-explorer-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.join-waitlist-uncover-endless-opp-text-1x {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-uncover-endless-opp-text-1x-1 {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-digital-magaziner-st {
+  position: relative;
+  line-height: 1;
+  width: 1375px;
+}
+
+.join-waitlist-digital-magaziner-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.join-waitlist-stay-ahead-in-the-btext-1x {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-stay-ahead-in-the-btext-1x-1 {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-frame-1000005232x {
+  width: 1798px;
+  box-sizing: border-box;
+  padding-bottom: 740px;
+  padding-left: 65px;
+  position: relative;
+  background-color: rgba(218, 166, 36, 1);
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  flex-grow: 1;
+  color: rgba(0, 0, 0, 1);
+}
+
+.join-waitlist-box_426917634426917624x {
+  gap: 0;
+  width: 100%;
+  height: 100%;
+  align-items: flex-end;
+  flex-direction: column;
+  display: flex;
+  box-sizing: border-box;
+}
+
+.join-waitlist-backround-art-3 {
+  height: 917px;
+  width: 843px;
+}
+
+.join-waitlist-frame-1000005237x {
+  margin-top: -843px;
+  align-items: center;
+  flex-direction: column;
+  display: flex;
+  gap: 40px;
+}
+
+.join-waitlist-choose-your-account {
+  text-align: center;
+  font-weight: 500;
+  font-size: 48px;
+  width: 741px;
+  margin-right: 250px;
+}
+
+.join-waitlist-frame-1000005233x {
+  text-align: left;
+  align-items: flex-start;
+  flex-direction: column;
+  display: flex;
+  gap: 40px;
+  
+}
+
+.join-waitlist-social-account-conne {
+  position: relative;
+  line-height: 1;
+  width: 1375px;
+  margin-right: 350px;
+}
+
+.join-waitlist-social-account-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.join-waitlist-connect-with-peers-text-1x {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-connect-with-peers-text-1x-1 {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-professional-account {
+  position: relative;
+  line-height: 1;
+  width: 1375px;
+}
+
+.join-waitlist-professional-account-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.join-waitlist-showcase-your-skill-text-1x {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-showcase-your-skill-text-1x-1 {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-business-account-gro {
+  position: relative;
+  line-height: 1;
+  width: 1375px;
+}
+
+.join-waitlist-business-account-text-0x {
+  display: inline;
+  font-weight: 500;
+  font-size: 32px;
+}
+
+.join-waitlist-grow-your-brand-ac-text-1x {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-grow-your-brand-ac-text-1x-1 {
+  display: inline;
+  font-weight: 400;
+  font-size: 22px;
+}
+
+.join-waitlist-frame-1000005234x {
+  border-radius: 15px;
+  padding-right: 292px;
+  padding-bottom: 38px;
+  padding-left: 284px;
+  padding-top: 503px;
+  bottom: 103px;
+  background-color: rgba(11, 8, 28, 1);
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  left: 400px;
+  position: absolute;
+  box-sizing: border-box;
+  height: 629px;
+  width: 969px;
+  
+}
+
+.join-waitlist-component-20x-1-0-type {
+  width: 165;
+  height: 47;
+}
+
+.join-waitlist-component-20x-1-1-type {
+  width: 393;
+  height: 88;
+  position: absolute;
+  left: 516;
+  top: 1428;
+}
+
+.join-waitlist-frame-1000005236x {
+  padding-top: 108px;
+  padding-right: 569px;
+  padding-left: 525px;
+  padding-bottom: 108px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  gap: 40px;
+  font-weight: 400;
+  text-align: center;
+  color: rgba(254, 255, 254, 1);
+  display: flex;
+  background-color: rgba(11, 8, 28, 1);
+  box-sizing: border-box;
+  height: 493px;
+  width: 1799px;
+}
+
+.join-waitlist-frame-1000005235x {
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  gap: 26px;
+  margin-left: 200px; /* Adjust the value as needed */
+}
+
+
+.join-waitlist-group-7x-1 {
+  height: 99px;
+  width: 178px;
+  
+}
+
+.join-waitlist-lorem-ipsum-has-been {
+  text-transform: lowercase;
+  line-height: 1.85;
+  font-size: 16px;
+  width: 346px;
+  
+}
+
+.join-waitlist-frame-103921x {
+  align-items: center;
+  display: flex;
+  gap: 21px;
+  margin-left: 250px;
+ 
+}
+
+.join-waitlist-group-427318860x {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  box-sizing: border-box;
+  height: 53px;
+  width: 53px;
+}
+
+.join-waitlist-ellipse-968x {
+  padding: 12px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  background-color: rgba(241, 243, 243, 1);
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.join-waitlist-instagram-1 {
+  height: 27px;
+  width: 27px;
+}
+
+.join-waitlist-group-427318859x {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  box-sizing: border-box;
+  height: 53px;
+  width: 53px;
+}
+
+.join-waitlist-ellipse-969x {
+  padding: 12px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  background-color: rgba(241, 243, 243, 1);
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.join-waitlist-twitter-1 {
+  height: 27px;
+  width: 27px;
+}
+
+.join-waitlist-group-427318858x {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  box-sizing: border-box;
+  height: 53px;
+  width: 53px;
+}
+
+.join-waitlist-ellipse-970x {
+  padding: 12px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  background-color: rgba(241, 243, 243, 1);
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.join-waitlist-facebook-1 {
+  height: 27px;
+  width: 27px;
+}
+
+.join-waitlist-group-427318857x {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  box-sizing: border-box;
+  height: 53px;
+  width: 53px;
+}
+
+.join-waitlist-ellipse-971x {
+  padding: 12px;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  display: flex;
+  background-color: rgba(241, 243, 243, 1);
+  box-sizing: border-box;
+  height: 100%;
+}
+
+.join-waitlist-discord-1 {
+  height: 27px;
+  width: 27px;
+}

@@ -1,0 +1,47 @@
+.component-20-component-20x-2 {
+  transition-property: all;
+  font-weight: 500;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  font-family: Poppins;
+  border-radius: 15px;
+  align-items: center;
+  justify-content: center;
+  display: inline-flex;
+  gap: 10px;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  box-sizing: border-box;
+}
+
+.component-20-component-20x-2-0-type {
+  width: 165;
+  height: 47;
+  box-shadow: 0px 0px 0px 2px rgba(218, 166, 36, 1) inset;
+  box-shadow-width: 2;
+}
+
+.component-20-component-20x-2-1-type {
+  width: 393;
+  height: 88;
+  
+  left: 516;
+  top: 1428;
+  background-color: rgba(218, 166, 36, 1);
+}
+
+.component-20-log-in {
+  transition-property: all;
+  font-size: 20px;
+}
+
+.component-20-log-in-0-type {
+  height: 27;
+  width: 115;
+}
+
+.component-20-log-in-1-type {
+  width: 123;
+}
