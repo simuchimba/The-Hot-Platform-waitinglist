@@ -7,21 +7,52 @@
 
 .row-1{
   height: auto;
+  color: #FFF;
+text-align: center;
+font-family: Poppins;
+
+
+font-weight: 500;
+
 }
 .texto p{
-  font-size: 15px;
+  color: #000;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
+
 .row-2 h3{
   font-weight: 550;
+  color: #000;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
 .row-3 h5{
   font-weight: bold;
+  color: #000;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
 .black-box{
   width: 50%;
   margin: auto;
   padding: 100px;
   border-radius: 10px;
+  color: #000;
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
 }
 
 .social-circle{
@@ -33,6 +64,7 @@
 @media (min-width: 1450px){
   .row-3-heading{
     width: 30%;
+    font-family: Poppins;
   }
 }
 
@@ -41,6 +73,7 @@
 @media (max-width: 1024px) {
   .black-box{
     width: 80%;
+    font-family: Poppins;
   }
 }
 
@@ -48,6 +81,7 @@
   .black-box{
     width: 100%;
     padding: 30px;
+    font-family: Poppins;
   }
 }
 
@@ -612,6 +646,7 @@ padding: 20px 20px 20px 20px;}}
   background-color: rgba(241, 243, 243, 1);
   box-sizing: border-box;
   height: 100%;
+  border-radius: 50%;
 }
 
 .join-waitlist-instagram-1 {
@@ -623,7 +658,7 @@ padding: 20px 20px 20px 20px;}}
   align-items: center;
   justify-content: center;
   display: flex;
-  box-sizing: border-box;
+  box-sizing: border-round;
   height: 53px;
   width: 53px;
 }
@@ -637,6 +672,7 @@ padding: 20px 20px 20px 20px;}}
   background-color: rgba(241, 243, 243, 1);
   box-sizing: border-box;
   height: 100%;
+  border-radius: 50%;
 }
 
 .join-waitlist-twitter-1 {
@@ -662,6 +698,7 @@ padding: 20px 20px 20px 20px;}}
   background-color: rgba(241, 243, 243, 1);
   box-sizing: border-box;
   height: 100%;
+  border-radius: 50%;
 }
 
 .join-waitlist-facebook-1 {
@@ -678,6 +715,23 @@ padding: 20px 20px 20px 20px;}}
   width: 53px;
 }
 
+.hp {
+  margin-left: 800px;
+}
+
+@media screen and (max-width: 1200px) {
+  .hp {
+    margin-left: 10%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .hp {
+    margin-left: 25%;
+  }
+}
+
+
 .join-waitlist-ellipse-971x {
   padding: 12px;
   justify-content: center;
@@ -687,6 +741,7 @@ padding: 20px 20px 20px 20px;}}
   background-color: rgba(241, 243, 243, 1);
   box-sizing: border-box;
   height: 100%;
+  border-radius: 50%;
 }
 
 .join-waitlist-discord-1 {
