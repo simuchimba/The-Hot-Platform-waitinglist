@@ -1,16 +1,73 @@
+.logo{
+  height: 100px;
+  width:150px;
+  margin-bottom: 0px;
+  padding: 1px;
+}
+
+.row-1{
+  height: auto;
+}
+.texto p{
+  font-size: 15px;
+}
+.row-2 h3{
+  font-weight: 550;
+}
+.row-3 h5{
+  font-weight: bold;
+}
+.black-box{
+  width: 50%;
+  margin: auto;
+  padding: 100px;
+  border-radius: 10px;
+}
+
+.social-circle{
+  border-radius: 50% !important;
+  padding: 10px !important;
+  width: 45px;
+  background-color: transparent !important;
+}
+@media (min-width: 1450px){
+  .row-3-heading{
+    width: 30%;
+  }
+}
+
+
+
+@media (max-width: 1024px) {
+  .black-box{
+    width: 80%;
+  }
+}
+
+@media (max-width: 800px) {
+  .black-box{
+    width: 100%;
+    padding: 30px;
+  }
+}
+
+
+
+
 .join-waitlist-box_421222913421222919421224257421224266x {
   align-items: center;
   flex-direction: column;
-  width: 100%; /* Set the width to 100% */
-  height: 100vh; /* Set the height to 100% viewport height (full screen) */
+  width: 100%;
+  height: 100vh;
   box-sizing: border-box;
   background-color: rgba(255, 255, 255, 1);
   display: flex;
   font-family: Poppins;
 }
 
+
 .join-waitlist-frame-1000005227x {
-  width: 100%; /* Set the width to 100% */
+  width: 100%;
   height: 100vh;
   box-sizing: border-box;
   padding-bottom: 114px;
@@ -23,6 +80,7 @@
   color: rgba(255, 255, 255, 1);
   text-align: center;
 }
+
 
 .join-waitlist-rectangle-34625621x {
   border-radius: 15px;
@@ -46,10 +104,14 @@
   position: absolute;
 }
 
+
 .join-waitlist-logo-1 {
   height: 142px;
   width: 219px;
+  margin-top:-20px;
+  margin-bottom: -50px;
 }
+
 
 .join-waitlist-frame-1000005230x {
   bottom: 86px;
@@ -77,6 +139,7 @@
   height: 287.5px;
 }
 
+
 .join-waitlist-at-the-hot-platform {
   letter-spacing: 0.04em;
   font-weight: 400;
@@ -86,16 +149,16 @@
 }
 
 .join-waitlist-component-20x-0-type {
-  width: 165;
-  height: 47;
+  width: 165px;
+  height: 47px;
 }
 
 .join-waitlist-component-20x-1-type {
-  width: 393;
-  height: 88;
+  width: 39px;
+  height: 88px;
   position: absolute;
-  left: 516;
-  top: 1428;
+  left: 516px;
+  top: 1428px;
 }
 
 .join-waitlist-frame-1000005228x-1 {
@@ -114,6 +177,9 @@
   text-align: left;
 }
 
+
+
+
 .join-waitlist-frame-1000005231x {
   align-items: flex-start;
   flex-direction: column;
@@ -121,12 +187,19 @@
   gap: 40px;
 }
 
+
 .join-waitlist-showcase-your-talent {
   position: relative;
   line-height: 1;
   width: 1375px;
 }
-
+@media(max-width:787px){
+.join-waitlist-showcase-your-talent{   width:100%;  word-break: break-word;
+}
+}
+@media(max-width: 390px){
+•join-waitlist-transforming-the-way{
+padding: 20px 20px 20px 20px;}}
 .join-waitlist-showcase-your-talent-text-0x {
   display: inline;
   font-weight: 500;
@@ -139,11 +212,14 @@
   font-size: 20px;
 }
 
+
+
 .join-waitlist-portfolio-feature-text-2x {
   display: inline;
   font-weight: 500;
   font-size: 24px;
 }
+
 
 .join-waitlist-component-text-3x {
   display: inline;
@@ -151,14 +227,15 @@
   font-size: 24px;
 }
 
+
 .join-waitlist-with-our-innovative-text-4x {
   display: inline;
   font-weight: 400;
   line-height: 1.85;
   font-size: 22px;
-  
-
+  word-wrap: break-word;
 }
+
 
 .join-waitlist-join-the-revolution {
   position: relative;
@@ -317,10 +394,12 @@
   box-sizing: border-box;
 }
 
+
 .join-waitlist-backround-art-3 {
   height: 917px;
   width: 843px;
 }
+
 
 .join-waitlist-frame-1000005237x {
   margin-top: -843px;
@@ -338,12 +417,15 @@
   margin-right: 250px;
 }
 
+
 .join-waitlist-frame-1000005233x {
   text-align: left;
   align-items: flex-start;
   flex-direction: column;
   display: flex;
   gap: 40px;
+
+
   
 }
 
@@ -351,8 +433,10 @@
   position: relative;
   line-height: 1;
   width: 1375px;
-  margin-right: 350px;
+  margin-right: 250px;
+  margin-left: 100px;
 }
+
 
 .join-waitlist-social-account-text-0x {
   display: inline;
@@ -372,10 +456,13 @@
   font-size: 22px;
 }
 
+
 .join-waitlist-professional-account {
   position: relative;
   line-height: 1;
   width: 1375px;
+  margin-right: 250px;
+  margin-left: 100px;
 }
 
 .join-waitlist-professional-account-text-0x {
@@ -384,10 +471,12 @@
   font-size: 32px;
 }
 
+
 .join-waitlist-showcase-your-skill-text-1x {
   display: inline;
   font-weight: 400;
   font-size: 22px;
+  margin-left: 100px;
 }
 
 .join-waitlist-showcase-your-skill-text-1x-1 {
@@ -400,6 +489,8 @@
   position: relative;
   line-height: 1;
   width: 1375px;
+  margin-right: 250px;
+  margin-left: 100px;
 }
 
 .join-waitlist-business-account-text-0x {
@@ -437,17 +528,18 @@
   
 }
 
+
 .join-waitlist-component-20x-1-0-type {
-  width: 165;
-  height: 47;
+  width: 165px;
+  height: 47px;
 }
 
 .join-waitlist-component-20x-1-1-type {
-  width: 393;
-  height: 88;
+  width: 393px;
+  height: 88px;
   position: absolute;
-  left: 516;
-  top: 1428;
+  left: 516px;
+  top: 1428px;
 }
 
 .join-waitlist-frame-1000005236x {
@@ -509,6 +601,7 @@
   height: 53px;
   width: 53px;
 }
+
 
 .join-waitlist-ellipse-968x {
   padding: 12px;
@@ -599,4 +692,7 @@
 .join-waitlist-discord-1 {
   height: 27px;
   width: 27px;
+}
+.nsn{
+  background-color: green;
 }
