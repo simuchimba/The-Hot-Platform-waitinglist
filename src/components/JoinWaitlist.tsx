@@ -29,122 +29,49 @@ export default function JoinWaitlist() {
                 </div>
                 <div className="col-md-6 m-auto">
                     <div className="header">
+                        <h5>A step to a new career transformation</h5> 
                         <p className="h1 text-center">
-                            Transforming the<br/> Way the World <br/> Works</p>
+                            Ignite your<br/> business for <br/> change</p> <br></br>
+                            <p className="h4 text-center">
+                            Build, Network and Grow<br/> to transform your <br/> career today</p>
                         <p className="text-center fs-6 texto">
                             <br/>
-                            At The Hot Platform, we're not just a job <br/> search and social network app; we're a<br/>
-                            game-changer for individuals in every <br/> profession. Whether you're a
-                            carpenter,<br/> clothing
-                            designer, plumber, teacher, artist, <br/> or anything in between, The Hot Platform is your
-                            space
-                            to shine.
+                            Join the waitlist to enjoy premium features for free.
                         </p>
-                        <br/>
+                        <br/> <a href="https://forms.gle/FnoVDiye1MpAU2Bx6">
                         <div className="text-center">
-                            <button className="btn btn-warning">Learn more</button>
-                        </div>
+                            <button className="btn btn-warning">Join Waitlist</button>
+                        </div></a>
 
                     </div>
                 </div>
             </div>
 
             <div className="row-2 px-5 py-5 ">
-                <h5 className="fw-semibold">
-                    Showcase Your Talent and Skills
-                    <br/>
-                </h5>
-                <p>
-                    <br/>
-                </p>
-                <h6 className="fw-semibold">
-                    Portfolio Feature
-                    <br/>
-                </h6>
-                <p>
-                    <br/>
-                </p>
+            <h5 className="fw-semibold">Build and Manage All In One Place </h5>
+            <p className="">
+                    Use <b>The HotPlatform</b> to connect with your community, network with professionals for insights and create stunning designs to attract recruiters.
+                    <br/> 
+                </p> 
+            <br/>
+            
+                
                 <p className="">
-                    With our innovative Portfolio feature, you can proudly display your projects, work, and
-                    skills to impress potential hirers. Let your accomplishments speak for themselves and stand
-                    out in the crowd.
+                ✔ Portfolio feature to flaunt your work and skills to impress hirers
                     <br/> <br></br>
-                </p>
-
-
-                <h5 className="fw-semibold">
-                    Join the Revolution
-                    <br/>
-                </h5>
-                <p>
-                    <br/>
-                </p>
-                <p>
-                    We're transforming the way the world works. It doesn't matter what career path you're on;
-                    we're here to support your journey to success.
+                    ✔ Smart design to create stunning visuals to showcase your expertise with a few clicks
                     <br/> <br></br>
-                </p>
 
-                <h5 className="fw-semibold">
-                    Unlock Your Full Potential
-                    <br/>
-                </h5>
-                <p>
-                    <br/>
-                </p>
-                <h6 className="fw-semibold">
-                    Smart Designer
-                    <br/>
-                </h6>
-                <p>
-                    <br/>
-                </p>
-                <p>
-                    Effortlessly create personalized professional materials like CVs, posters, brochures, and
-                    more. Our intelligent customization feature guarantees tailored results that showcase your
-                    unique skills and expertise with just a few clicks.
+                    ✔ Connecting you with employers who appreciate your talents
                     <br/> <br></br>
-                </p>
 
-
-                <h5 className="fw-semibold">
-                    Job Connector
-                    <br/>
-                </h5>
-                <p>
-                    <br/>
-                </p>
-                <p>
-                    Streamline your job search process and connect with employers who appreciate your talents.
+                    ✔ Stay ahead in the business world with valuable insights and inspiration
                     <br/> <br></br>
+
+                    
                 </p>
 
 
-                <h5 className="fw-semibold">
-                    Search Explorer
-                    <br/>
-                </h5>
-                <p>
-                    <br/>
-                </p>
-                <p>
-                    Uncover endless opportunities within our platform, from networks and hot topics to exciting
-                    career options.
-                    <br/> <br></br>
-                </p>
-
-
-                <h6 className="fw-semibold">
-                    Digital Magazine
-                    <br/>
-                </h6>
-                <p>
-                    <br/>
-                </p>
-                <p>
-                    Stay ahead in the business world with valuable insights and inspiration.
-                    <br/> <br></br>
-                </p>
             </div>
 
 
@@ -193,7 +120,7 @@ export default function JoinWaitlist() {
                 <br/>
                 <div className="black-box bg-dark">
                     <h4 className="text-center text-white">
-                        Ready to transform your career? Join our waiting list now and be part of the revolution!
+                        Join our waitlist now and be part of this resolution
                     </h4><br/>
                     <div className="text-center">
                         <button className="btn btn-warning text-white "
@@ -213,7 +140,9 @@ export default function JoinWaitlist() {
 
 
                     <p>
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+                    Ignite your
+business for
+change with The HotPlatform
                     </p>
                 </div>
                 <br/>
