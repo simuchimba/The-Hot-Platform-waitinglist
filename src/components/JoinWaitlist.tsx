@@ -98,7 +98,7 @@ export default function JoinWaitlist() {
                 <br/>
 
                 <h5>
-                    Professional Account
+                    Professional Accountss
                     <br/>
                 </h5>
 
